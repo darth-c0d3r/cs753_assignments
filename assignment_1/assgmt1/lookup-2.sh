@@ -34,7 +34,7 @@ fstminimize binary.fst binary.fst
 fstprint binary.fst fstfile.txt
 
 # call the python file to parse and print
-python3 printfst.py fstfile.txt
+python3 printfst.py fstfile.txt $3
 
 # remove all the extra files
 rm fstfile.txt
