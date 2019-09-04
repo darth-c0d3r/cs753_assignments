@@ -9,6 +9,12 @@ file_in  = "in.txt"
 file_out = "out.txt"
 file_fst = "fst.txt"
 
+# a quick fix to reuse the same code for part 3
+if len(sys.argv) > 2:
+	file_in  = "in_"+sys.argv[2]+".txt"
+	file_out = "out_"+sys.argv[2]+".txt"
+	file_fst = "fst_"+sys.argv[2]+".txt"	
+
 # read all the words
 all_words = open(filename, 'r').readlines()
 

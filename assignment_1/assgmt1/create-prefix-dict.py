@@ -3,10 +3,15 @@ from shutil import copyfile
 
 # get the fst specification filename
 filename = sys.argv[1]
+file_out = 'lex-files/prefix-fst.txt'
+
+# quick fix to make the code work for P3.4
+if len(sys.argv) > 2:
+	file_out = 'lex-files/prefix-fst_' + sys.argv[2] + '.txt'
 
 all_lines = open(filename, 'r').readlines()
 
-with open('lex-files/prefix-fst.txt', 'w+') as file:
+with open(file_out, 'w+') as file:
 
 	for line in all_lines:
 

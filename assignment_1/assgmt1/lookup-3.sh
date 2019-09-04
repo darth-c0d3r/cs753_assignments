@@ -2,9 +2,9 @@
 
 # Can be used for testing part 2 as well
 
-# $1 : fst file [QPrefix.fst]
-# $2 : input symbol table [lex-files/let-out.txt]
-# $3 : the required word [ALICE]
+# $1 : fst file [QPrefix.fst] [QSuffix.fst]
+# $2 : input symbol table [lex-files/let-out.txt] [lex-files/let-out_rev.txt]
+# $3 : the required word [ALICE] [ECILA]
 
 # create the fst file for the spellings acceptor A
 NUM=0

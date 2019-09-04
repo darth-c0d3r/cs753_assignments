@@ -12,7 +12,6 @@ fstinvert binary.fst binary.fst
 
 # compose 2 fst files (spellings->word->pronunciation)
 fstcompose binary.fst $2 binary.fst
-cat binary.fst > send
 fstdeterminize binary.fst binary.fst
 fstminimize binary.fst binary.fst
 

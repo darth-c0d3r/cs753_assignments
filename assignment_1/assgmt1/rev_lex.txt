@@ -1,0 +1,2000 @@
+A	"A:
+TULOSBA	t }: "l U s p a
+ARETPECCA	a r e: "t p e s k a
+MADA	m a d "A:
+ÖJDA	9 "j a
+SSERDA	s E r "d a
+TAKOVDA	t A: "k U v d a
+RÄFFA	r E: "f a
+NERÄFFA	n e r E: "f a
+RERÄFFA	r e r E: "f a
+TNEGA	t n E "g a
+JA	j "a
+ATKA	a t k "a
+LA	l "A:
+NALA	n A: "l a
+GIRDLA	g I r d l "a
+XELA	s k e l "a
+ECILA	s I l "a
+LLA	l "a
+ALLA	a l "a
+SELEDLLA	s e l e d l "a
+POHILLA	p u: "h I l a
+APOHILLA	a p u: "h I l a
+SLLA	s l "a
+TLLA	t l "a
+DITLLA	d I t l "a
+POHITLLA	p u: "h I t l a
+GNITLLA	N I t l "a
+ÅSTLLA	O s t l "a
+RAVLLA	r A: v l "a
+TGILRAVLLA	t k I l` A: %v l "a
+GITKARÖTAMA	g I t k %a r 2: "t a m a
+AKIREMA	a k I r e: "m a
+AKSNAKIREMA	a k s n A: "k I r e m a
+NA	n "a
+DNA	d n "a
+SADNA	s a d n "a
+ARDNA	A: r d n "a
+YDNA	Y d n "a
+GNINA	N I n "A:
+GNINDELNA	N I n d e: %l n "a
+ANNA	a n "a
+NANNA	n a n "a
+SNATSNANNA	s n a t %s n a n "a
+SRANNA	s` a n "a
+TANNA	t a n "a
+ADNULRONNA	a d n u0 %l` U n "a
+RESNA	r e: %s n "a
+ETKISNA	e t k I s n "a
+TETKISNA	t e t k I s n "a
+RAVSNA	r A: v %s n "a
+GIRAVSNA	g I r A: v %s n "a
+NEGILGATNA	n e g I l g A: %t n "a
+RATNA	r A: %t n "a
+NEGNITNA	n e N I t n "a
+DNÄVNA	d n E %v n "a
+ADNÄVNA	a d n E %v n "a
+EDNÄVNA	e d n E %v n "a
+REDNÄVNA	r e d n E %v n "a
+RA	r "A:
+ATEBRA	a t e: b r "a
+RATEBRA	r a t e: b r "a
+ETEBRA	e t e: b r "a
+TETEBRA	t e t e: b r "a
+GRA	j r "a
+MRA	m r "a
+ÉMRA	e: "m r a
+NÉMRA	n e: "m r a
+RUHTRA	r u0 t` "a
+TTA	t "a
+VA	v a
+RYKSVA	r y: %S v "A:
+ATULSVA	a t }: l %s v "A:
+LATVA	l A: %t v "A:
+B	e: "b
+YBAB	I b E: "b
+AKCAB	a k a "b
+DAB	d A: "b
+KAB	k A: "b
+MOKAB	m O k A: "b
+DNAB	d n a "b
+TEDNAB	t e d n a "b
+NEKNAB	n e k N a "b
+RAB	r A: "b
+ARAB	a r A: "b
+NERAB	n e r A: "b
+NRAB	n` A: "b
+NENRAB	n e n` A: "b
+TENRAB	t e n` A: "b
+EB	e: "b
+RÄGEB	r E: "j e b
+ALLÅHEB	a l O "h e b
+AVÖHEB	a v 2: "h e b
+EDVÖHEB	e d v 2: "h e b
+REVÖHEB	r e v 2: "h e b
+SVÖHEB	s f 2: "h e b
+RAGALKEB	r a g A: l "k e b
+NEB	n e: "b
+NENEB	n e n e: "b
+REB	r e: "b
+DDEREB	d E "r e b
+ROREB	r u: "r e b
+ATTÄREB	a t E "r e b
+EDATTÄREB	e d a t E "r e b
+RATTÄREB	r a t E "r e b
+TATTÄREB	t a t E "r e b
+TULSEB	t }: l "s e b
+AMMÄTSEB	a m E t "s e b
+REMMÄTSEB	r e m E t "s e b
+TMÄTSEB	t m E t "s e b
+NEKIVSEB	n e k i: v "s e b
+KÖSEB	k 2: "s e b
+ALATEB	a l A: "t e b
+EDALATEB	e d a l A: "t e b
+RALATEB	r a l A: "t e b
+TLATEB	t l A: "t e b
+TTEB	t E "b
+REDYTEB	r e d y: "t e b
+SIVEB	s i: "v e b
+ASIVEB	a s i: "v e b
+GIB	g I "b
+LIB	l i: "b
+RALIB	r a l i: "b
+DLIB	d l I "b
+NEDLIB	n e d l I "b
+REDLIB	r e d l I "b
+NELIB	n e l i: "b
+LLIB	l I "b
+YLLIB	Y l I "b
+TIB	t i: "b
+ADUJB	a d }: j "b
+REDUJB	r e d }: j "b
+DÖJB	d 2: j "b
+DNALB	d n a l "b
+VELB	v e: l "b
+ILB	i: l "b
+RILB	r i: l "b
+TIVILB	t I v i: l "b
+DOLB	d u: l "b
+TEDOLB	t e d u: l "b
+ROMMOLB	r U m U l "b
+ÅLB	o: l "b
+OB	u: "b
+BOB	b O "b
+EDDOB	e d U "b
+KOB	k u: "b
+NEKOB	n e k u: "b
+NELLOB	n e l O "b
+ROB	r u: "b
+DROB	d` u: "b
+EDROB	e d` u: "b
+TEDROB	t e d` u: "b
+TROB	t` O "b
+ATROB	a t` O "b
+ARB	a r "b
+DIVDERB	d i: v %d e: r "b
+VERB	v e: r "b
+NAIRB	n a j a r "b
+REDORB	r e d u: r "b
+RORB	r u: r "b
+TTORB	t O r "b
+EDAKURB	e d a k }: r "b
+RAKURB	r a k }: r "b
+YRB	y: r "b
+RYRB	r y: r "b
+ATYRB	a t y: r "b
+RETYRB	r e t y: r "b
+MOTTÅRB	m O t O r "b
+REDÖRB	r e d 2: r "b
+POLLÖRB	p O l 9 r "b
+TSÖRB	t s 9 r "b
+TÖRB	t 2: r "b
+NESSUB	n e s u0 "b
+AGGYB	a g Y "b
+REGGYB	r e g Y "b
+NEDANGGYB	n e d a n g Y "b
+ATYB	a t y: "b
+RÄB	r E: "b
+ARÄB	a r E: "b
+TSÄB	t s E "b
+ATSÄB	a t s E "b
+ERTTÄB	e r t E "b
+ADÅB	a d o: "b
+EDÅB	e d o: "b
+TÅB	t o: "b
+NETÅB	n e t o: "b
+REKCÖB	r e k 9 "b
+GÖB	g 2: "b
+RÖB	r 2: "b
+AJRÖB	a j r 9 "b
+EDAJRÖB	e d a j r 9 "b
+NAJRÖB	n a j r 9 "b
+RAJRÖB	r a j r 9 "b
+TAJRÖB	t a j r 9 "b
+LRAC	l` A: "k
+RETRAC	r e t` A: "k
+SNAHC	s N a "s'
+NESNAHC	n e s N a "s'
+SELRAHC	s` l` A: "s'
+EILRAHC	I l` A: "s'
+FEHC	f e: "S
+NEFEHC	n e f e: "S
+SIRHC	s I r "k
+KCUHC	k u0 "S
+YTIC	Y t I "s
+ERIALC	r E: l "k
+KRALC	k r A: l "k
+EGELLOC	s' t I l O "k
+TLOOC	t l u: "k
+D	e: "d
+AD	A: "d
+GAD	g A: "d
+RAGAD	r a g A: "d
+ANRAGAD	a n` a g A: "d
+NEGAD	n e g A: "d
+SNEGAD	s n e g A: "d
+SGAD	s g A: "d
+MAD	m A: "d
+NEMAD	n e m A: "d
+REMAD	r e m A: "d
+NAD	n A: "d
+LEINAD	l e I n A: "d
+YNNAD	I n a "d
+ASNAD	a s n a "d
+RASNAD	r a s n a "d
+RAD	r A: "d
+ROTAD	r U t A: "d
+EVAD	v j E "d
+DIVAD	d I v A: "d
+ED	E "d
+TVITINIFED	t f i: "t I n I f e d
+JED	j E "d
+LED	l e: "d
+ALED	a l e: "d
+RALED	r a l e: "d
+NELED	n e l e: "d
+MED	m O "d
+NED	n e d
+ANNED	a n E "d
+SARED	s a r e: "d
+SSED	s E "d
+ASSED	a s E "d
+MOTUSSED	m O t }: "s e d
+OTSED	U t s E "d
+TED	t e: "d
+AMMASTED	a m a "s t e d
+ATTED	a t e "d
+GID	j E "d
+NID	n I "d
+ANID	a n i: "d
+TKERID	t k E "r I d
+ARETUKSID	a r e: "t }: k s I d
+TID	t i: "d
+TTID	t I "d
+TPUJD	t p }: "j
+RUJD	r }: "j
+GOD	g u: "d
+ROTKOD	r O t k O "d
+NROTKOD	n` O t k O "d
+RALLOD	r a l O "d
+MOD	m o: "d
+NOD	n u: "d
+RETTOD	r e t O "d
+RD	r O t k O "d
+ARD	A: r "d
+KCARD	k a r "d
+RARD	r A: r "d
+KCIRD	k I r "d
+AKCIRD	a k I r "d
+REKCIRD	r e k I r "d
+KNIRD	k N I r "d
+REVIRD	r e v i: r "d
+GORD	g u: r "d
+REGORD	r e g o: r "d
+GNINTTORD	N I n t O r "d
+MÖRD	m 9 r "d
+RAMMÖRD	r a m 9 r "d
+UD	}: "d
+REGUD	r e g }: "d
+GITKUD	g I t k u0 "d
+MUD	m u0 "d
+AMMUD	a m u0 "d
+TMUD	t m u0 "d
+REKYD	r e k y: "d
+RÄD	r E d
+RÖFRÄD	r 9 f r E: "d
+NÅRFIRÄD	n o: r f I r E: "d
+ÅD	o: "d
+GILÅD	g I l o: "d
+AGILÅD	a g I l o: "d
+TGILÅD	t k I l o: "d
+ÖD	2: "d
+DÖD	d 2: "d
+ADÖD	a d 2: "d
+DADÖD	d a d 2: "d
+EDADÖD	e d a d 2: "d
+RADÖD	r a d 2: "d
+TADÖD	t a d 2: "d
+NEDÖD	n e d 2: "d
+KÖD	k 2: "d
+RÖD	r 2: "d
+RRÖD	r 9 "d
+NERRÖD	n e r 9 "d
+TTÖD	t 9 "d
+E	"e:
+DE	d "e:
+EIDDE	I d "E
+RETFE	r e t f "E
+GADDIMRETFE	g A: d I %m r e t f "E
+MOSRETFE	m O "s` e t f e
+TÅRETFE	t %o: r e t f "E
+NEGE	n e g "e:
+NEGILTNEGE	n e g I l t n E "j e
+TEGE	t e g "e:
+ANGE	a n g "e:
+JE	j "E
+DLE	d l "E
+RELLE	r e l "E
+YLIME	Y l I m "E
+AMME	a m "E
+TOME	t U m e
+NE	n "e:
+ANE	a n "e:
+ADNE	a d n "E
+TSADNE	t s a d n "E
+IGRENE	i: "S r e n e
+AKSLEGNE	a k s l e N "E
+DNALGNE	d n a l N "E
+TLEKNE	t l e k N "E
+TGILNE	t k I l n "e:
+SNE	s n "e:
+MASNE	m a %s n "E
+AMMASNE	a m a %s n "E
+RE	r "e:
+ARE	a r "e:
+CIRE	k I r "e:
+ANNÄKRE	a n E %s' r "e:
+SRE	s` "e:
+TRE	t` "e:
+TTE	t "E
+TGIVE	t k I v "e:
+TKAXE	t k a "s k e
+LEPMEXE	l e p m E "s k e
+ARTXE	a r t s k "E
+REDAF	r e d A: "f
+TKSITKAF	t k s I t k a "f
+MUTKAF	m u0 t k a "f
+LLAF	l a "f
+RELLAF	r e l a "f
+TELLAF	t e l a "f
+JLIMAF	j l I "m a f
+NEJLIMAF	n e j l I "m a f
+NAF	n A: "f
+NNAF	n a "f
+SNNAF	s n a "f
+KSITSATNAF	k s I t s a "t n a f
+TKSITSATNAF	t k s I t s a "t n a f
+RAF	r A: "f
+ARAF	a r A: "f
+RORBRAF	r U r %b r a "f
+RAFRAF	r a %f r a "f
+GILRAF	g I l` A: "f
+TGILRAF	t k I l` A: "f
+ROMRAF	r U %m r a "f
+SRAF	s` a "f
+TRAF	t` A: "f
+LÄVRAF	l E: "v r A: f
+TSAF	t s a "f
+ATTAF	a t a "f
+RATTAF	r a t a "f
+IBF	"i: e: b f e
+LEF	l e: "f
+MEF	m E "f
+TSEF	t s E "f
+NETSEF	n e t s E "f
+KCIF	k I "f
+NEDNEIF	n e d n e i: "f
+REDNEIF	r e d n e i: "f
+MLIF	m l I "f
+NEMLIF	n e m l I "f
+NIF	n i: "f
+ANIF	a n i: "f
+SANNIF	s a n I "f
+SNNIF	s n I "f
+TNIF	t n I "f
+ARIF	a r i: "f
+KSIF	k s I "f
+AXIF	a s k I "f
+RAXIF	r a s k I "f
+RELF	r e: l "f
+ARELF	a r e: l "f
+ATSELF	a t s E l "f
+AKCILF	a k I l "f
+NAKCILF	n a k I l "f
+ROKCILF	r U k I l "f
+ANROKCILF	a n` U k I l "f
+NÄVKCILF	n E %v k I l "f
+NEDOLF	n e d u: l "f
+YLF	y: l "f
+AGYLF	a g y: l "f
+REGYLF	r e g y: l "f
+ATTYLF	a t Y l "f
+EDATTYLF	e d a t Y l "f
+RATTYLF	r a t Y l "f
+GÖLF	g 2: l "f
+KLOF	k l O "f
+TEKLOF	t e k l O "f
+MROF	m r O "f
+TROF	t` O "f
+ERATROF	e r a t` U "f
+EDNARAFTROF	e d n a r A: %f t` U "f
+TTÄSTROF	t E s` t` U "f
+ATTÄSTROF	a t E %s` t` U "f
+RETTÄSTROF	r e t E %s` t` U "f
+TOF	t u: "f
+MARF	m a r "f
+RÖFMARF	r 2: %f m a r "f
+EMMARF	e m a r "f
+DITMARF	d i: %t m a r "f
+NEDITMARF	n e d i: %t m a r "f
+TÅMARF	t o: m a r "f
+KNARF	k N a r "f
+EKIRKNARF	e k I r k N a r "f
+AKSNARF	a k s n a r "f
+DERF	d e: r "f
+GADERF	g A: d e: r "f
+IRF	i: r "f
+AIRF	a i: r "f
+TEHIRF	t e: %h i: r "f
+KSIRF	k s I r "f
+URF	}: r "f
+TSOKURF	t s O k u0 r "f
+NURF	n }: r "f
+AGÅRF	a g o: r "f
+EDAGÅRF	e d a g o: r "f
+NAGÅRF	n a g o: r "f
+RAGÅRF	r a g o: r "f
+ROGÅRF	r U g o: r "f
+NÅRF	n o: r "f
+NEKÖRF	n e k 2: r "f
+LLUF	l u0 "f
+ALLUF	a l u0 "f
+TLLUF	t l u0 "f
+AREDNUF	a r e: "d n u0 f
+AREGNUF	a r e: "g N u0 f
+RAREGNUF	r a r e: "g N u0 f
+RAKNUF	r a k N u0 "f
+ARYF	a r y: "f
+ALLÄF	a l E "f
+ESLEGNÄF	e s l e N E "f
+TESLEGNÄF	t e s l e N E "f
+GIDRÄF	g I d` E: "f
+GRÄF	j r E "f
+ÅF	o: %f
+AGNÅF	a N O "f
+RAGNÅF	r a N O "f
+RÅF	r o: "f
+TTÅF	t O "f
+DDÖF	d 9 "f
+SEDDÖF	s e d 9 "f
+GADESLEDÖF	g A: %d e s l e d 2: "f
+JLÖF	j l 9 "f
+AJLÖF	a j l 9 "f
+EDJLÖF	e d j l 9 "f
+REJLÖF	r e j l 9 "f
+LLÖF	l 9 "f
+TERTSNÖF	t e r t s n 9 "f
+RÖF	r 2: "f
+ARÖF	a r 2: "f
+EDANNABRÖF	e d a n a "b r 9 f
+IBRÖF	i: "b r 9 f
+ERÖF	e r 2: "f
+RARDERÖF	r A: r %d e r 2: "f
+RÅLSERÖF	r o: l %s e r 2: "f
+ALLÄTSERÖF	a l E t %s e r 2: "f
+GATERÖF	g A: %t e r 2: "f
+ANTULFRÖF	a n t }: l "f r 9 f
+EDNALLÅHRÖF	e d d n a l O "h r 9 f
+ARALKRÖF	a r A: l "k r 9 f
+RARALKRÖF	r a r A: l "k r 9 f
+AROLRÖF	a r u: "l` 9 f
+EDAROLRÖF	e d a r u: "l` 9 f
+RAROLRÖF	r a r u: "l` 9 f
+TAROLRÖF	t a r u: "l` 9 f
+TÅLRÖF	t o: %l` 9 "f
+ATÅLRÖF	a t o: "l` 9 f
+NEGILDOMRÖF	n e g I l d u: "m r 9 f
+RRÖF	r 9 "f
+ARRÖF	a r 9 "f
+NETSERRÖF	n e t s E "r 9 f
+NÄRRÖF	n E r 9 "f
+GITKISRÖF	g I t k I "s` 9 f
+TGITKISRÖF	t k I t k I "s` 9 f
+GALSRÖF	g A: l` "s` 9 f
+TSRÖF	t` s` 9 "f
+ATSRÖF	a t` s` 9 "f
+DOTSRÖF	d u: t` "s` 9 f
+ÅTSRÖF	o: t` "s` 9 f
+RÅTSRÖF	r o: t` "s` 9 f
+SÅTSRÖF	s o: t` "s` 9 f
+TTÅTSRÖF	t O t` "s` 9 f
+RÖTSRÖF	r 2: t` "s` 9 f
+ARÖTSRÖF	a r 2: t` "s` 9 f
+EDRÖTSRÖF	e d` 2: t` "s` 9 f
+NNAVSRÖF	n a v "s` 9 f
+ARAVSRÖF	a r A: v "s` 9 f
+NNIVSRÖF	n I v "s` 9 f
+ANNIVSRÖF	a n I v "s` 9 f
+RENNIVSRÖF	r e n I v "s` 9 f
+KÖSRÖF	k 2: "s` 9 f
+AKÖSRÖF	a k 2: "s` 9 f
+REKÖSRÖF	r e k 2: "s` 9 f
+TKÖSRÖF	t k 2: "s` 9 f
+ETKÖSRÖF	e t k 2: "s` 9 f
+RANÄJTRÖF	r a n E: "s' r 9 f
+TURÖF	t "}: r 2: f
+MOTURÖF	m O t "}: r 9 f
+RATNÄVRÖF	r a t n E "v r 9 f
+DANÅVRÖF	d a n o: "v r 9 f
+RARDLÄRÖF	r a r d l "E r 9 f
+SARDNÄRÖF	s a r d n "E r 9 f
+STARDNÄRÖF	s t a r d n "E r 9 f
+RETTÖF	r e t 9 "f
+NELAG	n e l A: "g
+TELAG	t e l A: "g
+ANLAG	a n l A: "g
+ALMAG	a l m a "g
+ELMAG	e l m a "g
+LAMMAG	l a m a "g
+AKSNAG	a k s n a "g
+NATAG	n a t A: "g
+VAG	v A: "g
+EG	e: "j
+TSANEG	s a n e: "j
+LARENEG	l A: "r e n e j
+MONEG	m o: "n e j
+EGROEG	j r O e: "j
+REG	r e: "j
+TTEG	t E "j
+KCIG	k I "j
+TFIG	t f I "j
+ATFIG	a t f I "j
+ETFIG	e t f I "j
+RETFIG	r e t f I "j
+ALLIG	a l I "j
+EDALLIG	e d a l I "j
+RALLIG	r a l I "j
+ASSIG	a s I "j
+SIVTEVIG	s i: v %t e v i: "j
+EDROJG	e d` u: "j
+TROJG	t` U "j
+DALG	d A: l "g
+ADALG	a d A: l "g
+SALG	s A: l "g
+MÖLG	m 9 l "g
+EDMÖLG	e d m 9 l "g
+AMMÖLG	a m 9 l "g
+REMMÖLG	r e m 9 l "g
+TMÖLG	t m 9 l "g
+DOG	d u: "g
+ADOG	a d u: "g
+EDOG	e d u: "g
+TEVLOG	t e v l O "g
+TTOG	t O "g
+BBARG	b a r "g
+RABBARG	r a b a r "g
+NEBBARG	n e b a r "g
+SITARG	s I t A: r "g
+SITTARG	s I t a r "g
+DIVARG	d i: "v a r g
+JERG	j E r "g
+NEJERG	n e j E r "g
+REJERG	r e j E r "g
+DNURG	d n u0 r "g
+PPURG	p u0 r "g
+NESNÄRG	n e s n E r "g
+ATÅRG	a t o: r "g
+RETÅRG	r e t o: r "g
+DUG	d }: "g
+SDUG	s d }: "g
+DLUG	d l u0 "g
+NAMMUG	n a m u0 "g
+RELLÄG	r e l E "j
+GNÄG	N E "j
+ANRÄG	a n` E: "j
+ÅG	o: "g
+GNÅG	N O "g
+NEGNÅG	n e N O "g
+REGNÅG	r e N O "g
+RÅG	r o: "g
+TTÅG	t O "g
+AVÅG	a v o: "g
+AMMÖG	a m 9 "j
+REMMÖG	r e m 9 "j
+RÖG	r 2: "j
+ARÖG	a r 2: "j
+AH	A: "h
+EDAH	e d a "h
+TFAH	t f a "h
+ÅLLAH	o: "l a h
+NESLAH	n e s l a "h
+VLAH	v l a "h
+AVLAH	a v l a "h
+ANMAH	a n m a "h
+EDANMAH	e d a n m a "h
+RANMAH	r a n m a "h
+NAH	n a "h
+DNAH	d n a "h
+NEDNAH	n e d n a "h
+RALDNAH	r a l d n a "h
+SNAH	s n a "h
+ARETNAH	a r e: "t n a h
+RAH	r A: "h
+YRRAH	Y r a "h
+RATAH	r a t A: "h
+TEVAH	t e v A: "h
+JEH	j E "h
+ÅDJEH	o: d j E "h
+NASJEH	n a s j E "h
+LEH	l e: "h
+ALEH	a l e: "h
+NEGLEH	n e j l E "h
+AGILEH	a g I l e: "h
+RELLEH	r e l E "h
+ERLLEH	e r l E "h
+TSLEH	t s l E "h
+TLEH	t l e: "h
+ETEVLEH	e t e v l E "h
+TETEVLEH	t e t e v l E "h
+MEH	m E "h
+AGILMEH	a g I l m E "h
+TEHGILMEH	t e: %h g I l m E "h
+RETEHGILMEH	r e t e: %h g I l m E "h
+AMMEH	a m E "h
+KSMEH	k s m E "h
+AKSMEH	a k s m E "h
+TKSMEH	t k s m E "h
+ENNEH	e n E "h
+SENNEH	s e n E "h
+YRNEH	Y r n E "h
+RREH	r E "h
+RARREH	r a r E "h
+ERREH	e r E "h
+DUGERREH	d }: "g e r E h
+NRREH	n` E "h
+RETEH	r e t e: "h
+ETTEH	e t E "h
+NELMIH	n e l m I "h
+ARDNIH	a r d n I "h
+RENNIH	r e n I "h
+AIROTSIH	a I r u: t "s I h
+NEIROTSIH	n e I r u: t "s I h
+TIH	t I "h
+ATTIH	a t I "h
+EDATTIH	e d a t I "h
+RATTIH	r a t I "h
+TATTIH	t a t I "h
+PLÄJH	p l E "j
+APLÄJH	a p l E "j
+REPLÄJH	r e p l E "j
+ETPLÄJH	e t p l E "j
+ETLÄJH	e t l E "j
+ANRÄJH	a n` E: "j
+NANRÄJH	n a n` E: "j
+ATRÄJH	a t` E "j
+TATRÄJH	t a t` E "j
+NOH	n U "h
+MONOH	m O n O "h
+PPOH	p O "h
+APPOH	a p O "h
+EDAPPOH	e d a p O "h
+SEDAPPOH	s e d a p O "h
+RAPPOH	r a p O "h
+SAPPOH	s a p O "h
+AROH	a r u: "h
+SOH	s U "h
+TOH	t u: "h
+LLETOH	l E "t U h
+TELLETOH	t e l E "t U h
+DNUH	d n u0 "h
+RADNUH	r a d n u0 "h
+NEDNUH	n e d n u0 "h
+ARDNUH	a r d n u0 "h
+GIRGNUH	g I r N u0 "h
+RUH	r }: "h
+SUH	s }: "h
+TESUH	t e s }: "h
+URTSUH	}: r t s u0 "h
+DUVUH	d u0 v }: "h
+TEDUVUH	t e d u0 v }: "h
+TGITFÄH	t k I t f E "h
+NETFLÄH	n e t f l E "h
+ASLÄH	a s l E "h
+ATMÄH	a t m E "h
+RATMÄH	r a t m E "h
+ADNÄH	a d n E "h
+EDNÄH	e d n E "h
+REDNÄH	r e d n E "h
+ANREDNÄH	a n` e d n E "h
+AGNÄH	a N E "h
+REGNÄH	r e N E "h
+TNÄH	t n E "h
+RÄH	r E: "h
+NÅRFIRÄH	n o: r f I r E: "h
+TGILRÄH	t k I l` E: "h
+TSÄH	t s E "h
+LÅH	l o: "h
+LLÅH	l O "h
+ALLÅH	a l O "h
+RELLÅH	r e l O "h
+TELLÅH	t e l O "h
+TILLÅH	t I l O "h
+RÅH	r o: "h
+DRÅH	d` o: "h
+TERÅH	t e r o: "h
+TRÅH	t` o: "h
+GÖH	g 2: "h
+REGÖH	r e g 2: "h
+ERGÖH	e %r g 2: "h
+ATSGÖH	a t s k 9 "h
+TGÖH	t k 9 "h
+LLÖH	l 9 "h
+RÖH	r 2: "h
+ARÖH	a r 2: "h
+EDRÖH	e d` 2: "h
+TRÖH	t` 2: "h
+I	%I
+DNALBI	d d n a l b "i:
+GADI	g A: "d I
+TOIDI	t "u: I d I
+RETOIDI	r e t "u: I d I
+ÉDI	e: "d I
+REÉDI	r e e: "d I
+LLAFI	l a "f I
+DERFI	d e: r "f I
+NÅRFI	n o: r "f I
+NEGI	n E "j I
+MONEGI	m O n e: "j I
+GNÅGI	N O "g I
+RÅGI	r o: "g I
+LÄJHI	l E: "j I
+POHI	p u: "h I
+GÅHI	g o: "h I
+LLÄVKI	l E v "k I
+ALLI	a l "I
+NOGROMI	n O g r O "m I
+NI	n "I
+DADNALBNI	d a d d n a l %b n "I
+NOITAMROFNI	n u: "S a m r O f n I
+RÖFNI	r 2: %f n "I
+AGNI	a N "I
+NEGNI	n e N "I
+SNATSNEGNI	s n a t s n e N "I
+GNITNEGNI	N I "t n e N I
+TEGNI	t e N "I
+NANNI	n a n "I
+ENNI	e n "I
+RÄBENNI	r E: %b e n "I
+MONI	m %O n "I
+RESNI	r e: %s n "I
+GÅSNI	g o: %s n "I
+ETNI	e t n "I
+TNASSERTNI	t n a "s e r t n I
+DARESSERTNI	d a r e: "s e r t n I
+SI	s "i:
+TELLÄTSI	t e l E t "s I
+GÄVI	g E: "v i:
+AJ	A: "j
+KCAJ	k a "j
+GAJ	g A: "j
+AGAJ	a g A: "j
+RAGAJ	r a g A: "j
+AHAJ	A: "h A: j
+SEMAJ	s m j E "j
+ENAJ	n j E "j
+PPAJ	p a "j
+NOSAJ	n O s A: "j
+ÅSAJ	O s a "j
+TSSIVAJ	t s I "v a j
+YRREJ	Y r E "j
+SUSEJ	s u0 s e: "j
+MIJ	m I "j
+YMMIJ	Y m I "j
+OJ	u: "j
+BBOJ	b O "j
+ABBOJ	a b O "j
+EDABBOJ	e d a b O "j
+RABBOJ	r a b O "j
+TABBOJ	t a b O "j
+TEBBOJ	t e b O "j
+TGIBBOJ	t k I b O "j
+EOJ	u: "j
+NHOJ	n O "j
+YNNHOJ	Y n O "j
+NEDROJ	n e d` u: "j
+UJ	u0 "j
+LUJ	l }: "j
+TSUJ	t s Y "S
+ALKÄJ	a l k E: "j
+TMÄJ	t m E "j
+ARBETTÄJ	A: r %b e t E "j
+LEVÄJ	l e v E: "j
+NLEVÄJ	n l e v E: "j
+ALVÄJ	a l v E: "j
+RALVÄJ	r a l v E: "j
+TGILVÄJ	t k I l v E: "j
+EFFAK	e f a "k
+ALLAK	a l a "k
+EDALLAK	e d a l a "k
+RALLAK	r a l a "k
+SALLAK	s a l a "k
+TLLAK	t l a "k
+NAREMAK	n a r e m A: "k
+NAK	n a "k
+EKSNAK	e s` n` a "k
+NETPAK	n e: "t p a k
+LRAK	r A: "k
+RÄIRRAK	r "E: I r a k
+ATSAK	a t s a "k
+EDATSAK	e d a t s a "k
+RATSAK	r a t s a "k
+TTAK	t a "k
+NIVEK	n I v E "k
+RALLIK	r a l I "k
+ANRALLIK	a n` a l I "k
+ELLIK	e l I "k
+NELLIK	n e l I "k
+RETEMOLIK	r e t e: "m U l i: s'
+RALK	r A: l "k
+ARALK	a r A: l "k
+EDARALK	e d a r A: l "k
+RARALK	r a r A: l "k
+TRALK	t` A: l "k
+SSALK	s a l "k
+NAKCOLK	n a k O l "k
+NEBBULK	n e b u0 l "k
+ÄLK	E: l "k
+REDÄLK	r e d E: l "k
+ANREDÄLK	a n` e d E: l "k
+MK	r e t e: "m U l i: s'
+TSAPPANK	t s a p a n "k
+TPPANK	t p a n "k
+ALLUNK	a l u0 n "k
+LLOK	l O "k
+ALLOK	a l O "k
+EDALLOK	e d a l O "k
+RALLOK	r a l O "k
+MOK	m O "k
+AMMOK	a m O "k
+REMMOK	r e m O "k
+TIMMOK	t I m O "k
+SIPMOK	s I p m O "k
+RASIPMOK	r a s I p m O "k
+GITSNOK	g I t s n O "k
+TGITSNOK	t k I t s n O "k
+TKATNOK	t k a "t n O k
+ATKATNOK	a t k a "t n O k
+ROTNOK	r u: "t n O k
+TEROTNOK	t e r u: "t n O k
+LLORTNOK	l O r "t n O k
+ARELLORTNOK	a r e: "l U r t n O k
+PPOK	p O "k
+ALPPOK	a l p O "k
+TROK	t` U "k
+RATSOK	r a t s O "k
+TFARK	t f a r "k
+RETFARK	r e t f a r "k
+GIRK	g i: r "k
+TEGIRK	t e g i: r "k
+PPORK	p O r "k
+NEPPORK	n e p O r "k
+REVÄRK	r e v E: r "k
+SVÄRK	s v E r "k
+KUK	k }: "k
+LUK	l }: "k
+EDNUK	e d n u0 "k
+GNUK	N u0 "k
+NEGNUK	n e N u0 "k
+ANNUK	a n u0 "k
+TANNUK	t a n u0 "k
+NISUK	n i: "s }: k
+RAVK	r A: v "k
+ANNIVK	a n I v "k
+NANNIVK	n a n I v "k
+RONNIVK	r U n I v "k
+LLÄVK	l E v "k
+NELLÄVK	n e l E v "k
+NAKRYK	n a k r Y "s'
+SSYK	s Y "s'
+TFÄK	t f E "s'
+NETFÄK	n e t f E "s'
+APMÄK	a p m E "s'
+DNÄK	d n E "s'
+EDNÄK	e d n E "s'
+SEDNÄK	s e d n E "s'
+ANNÄK	a n E "s'
+RENNÄK	r e n E "s'
+SNNÄK	s n E "s'
+ALSNÄK	a l s n E "s'
+ROLSNÄK	r U l s n E "s'
+TNÄK	t n E "s'
+RÄK	r E: "s'
+ARÄK	a r E: "s'
+KELRÄK	k e: %l` E: "s'
+NEKELRÄK	n e k e: %l` E: "s'
+TEKÖK	t e k 2: "s'
+APÖK	a p 2: "s'
+REPÖK	r e p 2: "s'
+TPÖK	t p 2: "s'
+ETPÖK	e t p 2: "s'
+RÖK	r 2: "k
+ARÖK	a r 2: "s'
+EDRÖK	e d` 2: "s'
+TRÖK	t` 2: "s'
+TTÖK	t 9 "s'
+L	l "E
+AL	A: "l
+GAL	g A: "l
+AGAL	a g A: "l
+RAGAL	r a g A: "l
+NEGAL	n e g A: "l
+TEGAL	t e g A: "l
+TGAL	t k a "l
+DNAL	d n a "l
+TEDNAL	t e d d n a "l
+YRRAL	Y r a "l
+EL	e: "l
+ADEL	a d e: "l
+ERADEL	e r a d e: "l
+REDEL	r e d e: "l
+NESDEL	n e s E "l
+EEL	i: "l
+KEL	k e: "l
+AKEL	a k e: "l
+REKEL	r e k e: "l
+OEL	U e: "l
+ATEL	a t e: "l
+EDATEL	e d a t e: "l
+RATEL	r a t e: "l
+TATEL	t a t e: "l
+AVEL	a v e: "l
+EDNAVEL	e d n a v e: "l
+EDVEL	e d v e: "l
+REVEL	r e v e: "l
+XEL	s k E "l
+AGGIL	a g I "l
+REGGIL	r e g I "l
+KIL	k i: "l
+AKIL	a k i: "l
+EDNANKIL	e d n a n k i: "l
+RANKIL	r a n k i: "l
+MOSKIL	m O %S k i: "l
+ALLIL	a l I "l
+ELLIL	e l I "l
+ASIL	a s i: "l
+ATSIL	a t s I "l
+NATSIL	n a t s I "l
+ATIL	a t i: "l
+RATIL	r a t i: "l
+ETIL	e t i: "l
+NETIL	n e t i: "l
+TETIL	t e t i: "l
+VIL	v i: "l
+TEVIL	t e v i: "l
+DUJL	d }: "j
+AGUJL	a g }: "j
+REGUJL	r e g }: "j
+SUJL	s }: "j
+TESUJL	t e s }: "j
+GÖJL	g 2: "j
+NODNOL	n O d n O "l
+DROL	d` o: "l
+SSOL	s O "l
+VOL	v u: "l
+AVOL	a v o: "l
+EDAVOL	e d a v u: "l
+RAVOL	r a v o: "l
+TFUL	t f u0 "l
+NETFUL	n e t f u0 "l
+NGUL	n N u0 "l
+ANGUL	a n N u0 "l
+TNGUL	t n N u0 "l
+RATKUL	r a t k u0 "l
+HCNUL	s` n` u0 "l
+ARUL	a r }: "l
+EDARUL	e d a r }: "l
+TGITSUL	t k I t s u0 "l
+AKCYL	a k Y "l
+SEDAKCYL	s e d a k Y "l
+SAKCYL	s a k Y "l
+GILKCYL	g I l k Y "l
+AGILKCYL	a g I l k Y "l
+ANSSYL	a n s Y "l
+RANSSYL	r a n s Y "l
+TEHNEGÄL	t e: %h n e g E: "l
+TEGÄL	t e g E: "l
+GGÄL	g E "l
+AGGÄL	a g E "l
+REGGÄL	r e g E "l
+ERAKÄL	e r a k E: "l
+ANMÄL	a n m E "l
+EDANMÄL	e d a n m E "l
+RANMÄL	r a n m E "l
+TANMÄL	t a n m E "l
+EGNÄL	e N E "l
+ERGNÄL	e r N E "l
+RÄL	r E: "l
+ARÄL	a r E: "l
+ERARÄL	e r a r E: "l
+EDRÄL	e d` E: "l
+TRÄL	t` E: "l
+SÄL	s E: "l
+ASÄL	a s E: "l
+RESÄL	r e s E: "l
+TSÄL	t s E "l
+ETSÄL	e t s E: "l
+TÄL	t E: "l
+TTÄL	t E "l
+ERATTÄL	e r a t E "l
+GÅL	g o: "l
+ANÅL	a n o: "l
+GNÅL	N O "l
+AGNÅL	a N O "l
+TGNÅL	t N O "l
+SÅL	s o: "l
+TÅL	t o: "l
+ATÅL	a t o: "l
+RETÅL	r e t o: "l
+SASTÅL	s a s t O "l
+NGÖL	n N 9 "l
+GITKANGÖL	g I t k %a n N 9 "l
+TGILJÖL	t k I l j 9 "l
+TNANTJÖL	t n a n t j 9 "l
+GADRÖL	g A: d` 2: "l
+ASÖL	a s 2: "l
+RESÖL	r e s 2: "l
+NEGAM	n e g A: "m
+IGAM	i: "g a m
+TÄTSEJAM	t E: t "s e j a m
+ROJAM	r u: "j a m
+EKAM	k j E "m
+TKAM	t k a "m
+AMMAM	a m a "m
+SAMMAM	s a m a "m
+NAM	n A: "m
+NENNAM	n e n a "m
+AIRAM	a i: "r a m
+KRAM	k r a "m
+NEKRAM	n e k r a "m
+NITRAM	n i: "t` a m
+ASSAM	a s a "m
+ROSSAM	r U s a "m
+TAM	t A: "m
+HCTAM	s` t` a "m
+NEHCTAM	n e s` t` a "m
+NETAM	n e t A: "m
+TTAM	t a "m
+XAM	s k a "m
+DEM	d e: "m
+NADEM	n a d e: "m
+EDNALEDDEM	e d d n a l e: %d e: "m
+NICIDEM	n i: "s I d e m
+JEM	j E "m
+NALLEM	n a l E "m
+NEM	n e: "m
+EDANEM	e d a n e: "m
+RANEM	r a n e: "m
+GNINEM	N I n e: "m
+NEGNINEM	n e N I n e: "m
+REM	r e: "m
+AREM	a r e: "m
+RETEM	r e t e: "m
+LEAHCIM	l e a k i: "m
+GADDIM	g A: d I "m
+NEGADDIM	n e g A: d I "m
+GIM	j E "m
+EKIM	k j a "m
+LIM	l i: "m
+NOJLIM	n u: "j l I m
+RENOJLIM	r e n u: "j l I m
+NIM	n I "m
+ANIM	a n i: "m
+ERDNIM	e r d n I "m
+SANNIM	s a n I "m
+ENNIM	e n I "m
+NENNIM	n e n I "m
+SNNIM	s n I "m
+TSNIM	t s n I "m
+ATSNIM	a t s n I "m
+TUNIM	t }: "n I m
+RETUNIM	r e t }: "n I m
+SSIM	s I "m
+ASSIM	a s I "m
+EDASSIM	e d a s I "m
+RASSIM	r a s I "m
+GATSSIM	g A: t %s I "m
+TKNÄTSSIM	t k N E t %s I "m
+TTIM	t I "m
+LIBOM	l i: "b U m
+DOM	d u: "m
+RETSNOM	r e t s n O "m
+ROM	r u: "m
+DROM	d` u: "m
+TEDROM	t e d` u: "m
+NAGROM	n a g r O "m
+NOGROM	n O g r O "m
+NENOGROM	n e n O g r O "m
+ROMROM	r U %m r U "m
+ESROM	e s` O "m
+TOM	t u: "m
+RM	r e t s I "m
+SRM	s I s I "m
+NUM	n u0 "m
+NENNUM	n e n u0 "m
+KISUM	k i: "s }: m
+NEKISUM	n e k i: "s }: m
+TEKCYM	t e k Y "m
+NÄM	n E "m
+NENNÄM	n e n E "m
+AKSINNÄM	a S I n E "m
+ROKSINNÄM	r U S I n E "m
+ANROKSINNÄM	a n` U S I n E "m
+ERATSÄM	e r a t s E "m
+ÅM	o: "m
+LÅM	l o: "m
+TELÅM	t e l o: "m
+DANÅM	d a n o: "m
+REDANÅM	r e d a n o: "m
+AGNÅM	a N O "m
+RÅM	r o: "m
+ETSÅM	e t s O "m
+TEHGILJÖM	t e: %h g I l j 9 "m
+TGILJÖM	t k I l j 9 "m
+ADRÖM	a d` 2: "m
+EDADRÖM	e d a d` 2: "m
+ERADRÖM	e r a d` 2: "m
+NERADRÖM	n e r a d` 2: "m
+TERKRÖM	t e r k r 9 "m
+TKRÖM	t k r 9 "m
+ATÖM	a t 2: "m
+ETÖM	e t 2: "m
+RETÖM	r e t 2: "m
+TETÖM	t e t 2: "m
+N	n "E
+NMAN	n m a "n
+TENMAN	t e n m a "n
+GITKARRAN	g I t k %a r a "n
+TTAN	t a "n
+NETTAN	n e t a "n
+SIVTGILRUTAN	s i: v "t k I l` r }: t a n
+DEN	d e: "n
+JEN	j E "n
+REN	r e: "n
+EREN	e r e: "n
+SÖVREN	s 2: "v r E n
+WEN	}: j "n
+IN	i: "n
+KCIN	k I "n
+OIN	U i: "n
+GON	g u: "n
+AGON	a g u: "n
+LAMRON	l A: "m r U n
+TLAMRON	t l A: "m r U n
+UN	}: "n
+REMMUN	r e m u0 "n
+TERMUN	t e r m u0 "n
+YN	y: "n
+AYN	a y: "n
+NLEKCYN	n l e k Y "n
+ANRALKCYN	a n` a l k Y "n
+RETEHYN	r e t e: %h y: "n
+ANRETEHYN	a n` e t e: %h y: "n
+NEGILYN	n e g I l y: "n
+SSYN	s Y "n
+TTYN	t Y "n
+ATTYN	a t Y "n
+EDNMÄN	e d n m E "n
+RÄN	r E: "n
+ARÄN	a r E: "n
+NETEHRÄN	n e t e: %h r E: "n
+RAMRÄN	r a m r E "n
+ERAMRÄN	e r a m r E "n
+ATSÄN	a t s E "n
+NATSÄN	n a t s E "n
+ÅN	o: "n
+DÅN	d o: "n
+NOGÅN	n O g o: "n
+NISNOGÅN	n I s n O g o: "n
+SNATSNOGÅN	s n a t s n O g o: "n
+GNITNOGÅN	N I %t n O g o: "n
+TOGÅN	t O g o: "n
+ARGÅN	a r o: "n
+NÅN	n O "n
+NISNÅN	n I s n O "n
+SNATSNÅN	s n a t s n O "n
+GNITNÅN	N I t n O "n
+RÅN	r o: "n
+TÅN	t o: "n
+TTÅN	t O "n
+DJÖN	d j 9 "n
+EJÖN	e j 9 "n
+O	"u:
+TTESVAO	t E %s v A: "u:
+HCO	k "O
+ÅSKCO	O s k "O
+FO	v "O
+REFFO	r e f "O
+ATFO	a t f "O
+HO	"u:
+JO	j "O
+KO	k "u:
+JEKO	j E "k U
+GITKARÄLO	g I t k %a r E: l "u:
+AKILO	a k i: %l "u:
+REVILO	r e v i: "l U
+AKCYLO	a k Y %l "u:
+MO	m "O
+DROBMO	d` u: "b m O
+TRABLEDEMO	t` A: %b l e d e: m "u:
+GNIRKMO	N I r "k m O
+EDÅRMO	e d o: %r m "O
+TEDÅRMO	t e d o: %r m "O
+TGILJÖMO	t k I l j 9 %m "u:
+ADNO	a d n "U
+TNO	t n "U
+NOITAREPO	n u: "S a r e p O
+DRO	d` "u:
+TGILTNEDRO	t k I l t n E "d` O
+REDRO	r e d` "o:
+TEDRO	t e d` "u:
+ANDRO	a n` d` "o:
+RANDRO	r a n` d` "o:
+GNINDRO	N I n` d` "o:
+RAKRO	r a k r "O
+AORO	a u: %r "u:
+RAORO	r a u: %r "u:
+GILORO	g I l u: %r "u:
+KASRO	k A: s` "u:
+GIDLYKSO	g I d l Y %S "u:
+SSO	s "O
+TGILORTO	t g I l u: r %t "u:
+AP	a "p
+AKCAP	a k a "p
+APPAP	a p a "p
+SAPPAP	s a p a "p
+REPPAP	r e p a "p
+RAP	r A: "p
+SIRAP	s I r A: "p
+RENTRAP	r e n` t` A: "p
+SSAP	s a "p
+ASSAP	a s a "p
+RASSAP	r a s a "p
+LUAP	l o: "p
+RAGNEP	r a N E "p
+ANRAGNEP	a n` a N E "p
+REP	r E: "p
+TKEFREP	t k E %f r E: "p
+NOSREP	n u: "s` e p
+NENOSREP	n e n u: "s` e p
+RENOSREP	r e n u: "s` e p
+TGILNOSREP	t k I l n u: "s` e p
+ETEP	t i: "p
+RETEP	r e t e: "p
+LIHP	l I "f
+LOTSIP	l u: t "s I p
+NELOTSIP	n e l u: t "s I p
+NALP	n A: l "p
+NENALP	n e n A: l "p
+RENALP	r e n A: l "p
+TENALP	t e: "n a l p
+NETENALP	n e t e: "n a l p
+STALP	s t a l "p
+NESTALP	n e s t a l "p
+RESTALP	r e s t a l "p
+AKCOLP	a k O l "p
+SULP	s u0 l "p
+TGILSTÖLP	t k I l s t 9 l "p
+RAKJOP	r a k j O "p
+EKJOP	e k j O "p
+NEKJOP	n e k j O "p
+NÄVKJOP	n E %v k j O "p
+SILOP	s i: "l U p
+NESILOP	n e s i: "l U p
+RESILOP	r e s i: "l U p
+NOITISOP	n u: "S I s U p
+GNÄOP	N "E U p
+ATARP	a t A: r "p
+EDATARP	e d a t A: r "p
+RATARP	r a t A: r "p
+TATARP	t a t A: r "p
+SICERP	s i: "s e r p
+TNESERP	t n E "s e r p
+ARETNESERP	a r e: "t n e s e r p
+TNEDISERP	t n E "d I s e r p
+NETNEDISERP	n e t n E "d I s e r p
+SIRP	s i: r "p
+TESIRP	t e s i: r "p
+TAVIRP	t A: "v I r p
+MELBORP	m e: l "b U r p
+TEMELBORP	t e m e: l "b U r p
+TNECORP	t n E "s U r p
+ROSSEFORP	r U s E "f U r p
+AVORP	a v u: r "p
+ÅP	o: "p
+RÅGÅP	r o: %g o: "p
+RENNIMÅP	r e n I %m o: "p
+RÅTSÅP	r o: t %s o: "p
+LEHCAR	l e k A: "r
+TKAR	t k A: "r
+TROPPAR	t` O "p a r
+GNIRAR	N I r A: "r
+YAR	j E "r
+DER	d e: "r
+ADER	a d e: "r
+NADER	n a d e: "r
+ODER	U d e: "r
+NEGNIREGER	n e N I r e: "j e r
+RELGER	r e l g e: "r
+ANRELGER	a n` e l g e: "r
+NER	n e: "r
+ANER	a n e: "r
+TNER	t n e: "r
+ASER	a s e: "r
+NASER	n a s e: "r
+RESER	r e s e: "r
+TKEPSER	t k E p "s e r
+NETSER	n e t s E "r
+DRAHCIR	d` a k I "r
+KIR	k i: "r
+AKIR	a k i: "r
+GITKIR	g I t k I "r
+AGITKIR	a g I t k I "r
+TGITKIR	t k I t k I "r
+GNIR	N I "r
+AGNIR	a N I "r
+EDGNIR	e d N I "r
+NEGNIR	n e N I "r
+REGNIR	r e N I "r
+TGNIR	t N I "r
+TREBOR	t` e b o: "r
+NIBOR	n I b O "r
+GILOR	g I l u: "r
+TGILOR	t k I l u: "r
+LLOR	l O "r
+MOR	m O "r
+ASOR	a s o: "r
+ESOR	s u: "r
+MUR	m u0 "r
+TEMMUR	t e m u0 "r
+TNUR	t n u0 "r
+NAYR	n a y: "r
+NEGGYR	n e g Y "r
+REKCÄR	r e k E "r
+DDÄR	d E "r
+ADDÄR	a d E "r
+EDADDÄR	e d a d E "r
+ALSDÄR	a l s d E: "r
+ANKÄR	a n k E: "r
+RANKÄR	r a n k E: "r
+TTÄR	t E "r
+ATTÄR	a t E "r
+NETTÄR	n e t E "r
+DÅR	d o: "r
+RAKÅR	r a k o: "r
+DÖR	d 2: "r
+ADÖR	a d 2: "r
+AKÖR	a k 2: "r
+RÖR	r 2: "r
+ARÖR	a r 2: "r
+TSÖR	t s 9 "r
+S	s "E
+AS	A: "s
+EDAS	e d A: "s
+TGAS	t k a "s
+KAS	k A: "s
+NEKAS	n e k A: "s
+REKAS	r e k A: "s
+ANREKAS	a n` e k A: "s
+ANKAS	a n k A: "s
+RANKAS	r a n k A: "s
+SANKAS	s a n k A: "s
+TANKAS	t a n k A: "s
+ATKAS	a t k a "s
+MAS	m a "s
+ALMAS	a l m a "s
+AMMAS	a m a "s
+NAMMAS	n a m a "s
+LATMAS	l A: %t m a "s
+TELATMAS	t e l A: %t m a "s
+TGIDITMAS	t k I d i: %t m a "s
+NAS	n a "s
+GNINNAS	N I n a "s
+NEGNINNAS	n e N I n a "s
+TNAS	t n a "s
+ARAS	a r A: "s
+HARAS	a r A: "s
+TTAS	t a "s
+ETTAS	e t a "s
+TTOCS	t O k "s
+ES	e: "s
+NADES	n a "d e s
+DNUKES	d n u0 "k e s
+REDNUKES	r e d n u0 "k e s
+RETSEMES	r e t s E "m e s
+NES	n e: "s
+ERANES	e r a n e: "s
+TSANES	t s a n e: "s
+ETSANES	e t s a n e: "s
+TNES	t n e: "s
+RES	r e: "s
+TNAEGRES	t n a "S r e s
+SES	s e: "s
+TTES	t E "s
+XES	s k E "s
+FFIREHS	f I "r e S
+NEFFIREHS	n e f I "r e S
+ADIS	a d i: "s
+NADIS	n a d i: "s
+GIS	j E "s
+NOMIS	n O m i: "s
+NIS	n I "s
+ANIS	a n i: "s
+RIS	r 2: "s
+TSIS	t s I "s
+ATSIS	a t s I "s
+TTIS	t I "s
+ATTIS	a t I "s
+RETTIS	r e t I "s
+NOITAUTIS	n u: "S a }: t I s
+NENOITAUTIS	n e n u: "S a }: t I s
+UJS	}: "S
+KUJS	k }: "S
+AKUJS	a k }: "S
+SUHKUJS	s }: %h k }: "S
+TESUHKUJS	t e s }: %h k }: "S
+AGNUJS	a N u0 "S
+REGNUJS	r e N u0 "S
+LÄJS	l E: "S
+VLÄJS	v l E "S
+AVLÄJS	a v l E "S
+TRALKVLÄJS	t` A: l %k v l E "S
+DROMVLÄJS	d` u: %m v l E "S
+AKS	A: k "s
+ADAKS	a d A: k "s
+DADAKS	d a d A: k "s
+EDADAKS	e d a d A: k "s
+AFFAKS	a f a k "s
+LLAKS	l a k "s
+NELLAKS	n e l a k "s
+APAKS	a p A: k "s
+EDAPAKS	e d a p A: k "s
+RAPAKS	r a p A: k "s
+EKS	e: "S
+PPEKS	p E "S
+TEPPEKS	t e p E "S
+REKS	r e: "S
+AKCIKS	a k I "S
+EDAKCIKS	e d a k I "S
+RAKCIKS	r a k I "S
+TAKCIKS	t a k I "S
+DANLLIKS	d a n l I "S
+TIKS	t i: "S
+NETIKS	n e t i: "S
+RETIKS	r e t i: "S
+KCANSTIKS	k a n %s t i: "S
+LEVÖTSTIKS	l e v 9 t %s t i: "S
+TUJKS	t }: "S
+ATUJKS	a t }: "S
+NETUJKS	n e t }: "S
+RETUJKS	r e t }: "S
+NEGOKS	n e g u: k "s
+RAJOKS	r a j O k "s
+ALOKS	a l u: k "s
+NALOKS	n a l u: k "s
+ROKS	r u: k "s
+TTOKS	t U k "s
+ATTARKS	a t a r k "s
+RATTARKS	r a t a r k "s
+VERKS	v e: r k "s
+REKIRKS	r e k i: r k "s
+VIRKS	v i: r k "s
+AVIRKS	a v i: r k "s
+REVIRKS	r e v i: r k "s
+TIVIRKS	t I v i: r k "s
+EDMÄRKS	e d m E r k "s
+REMMÄRKS	r e m E r k "s
+DLUKS	d l u0 k "s
+LLUKS	l u0 k "s
+ELLUKS	e l u0 k "s
+DDYKS	d Y "S
+ADDYKS	a d Y "S
+RADDYKS	r a d Y "S
+GIDLYKS	g I d l Y "S
+ADNYKS	a d n Y "S
+LÄKS	l E: "S
+TMÄKS	t m E "S
+RATMÄKS	r a t m E "S
+RÄKS	r E: "S
+LÅKS	l o: k "s
+TNÖKS	t n 2: "S
+TÖKS	t 2: "S
+ATÖKS	a t 2: "S
+RETÖKS	r e t 2: "S
+GALS	g A: l "s
+SGALS	s g A: l "s
+ANPPALS	a n p a l "s
+APPILS	a p I l "s
+REPPILS	r e p I l "s
+GOLS	g u: l "s
+TULS	t }: l "s
+ATULS	a t }: l "s
+EDATULS	e d a t }: l "s
+RATULS	r a t }: l "s
+TATULS	t a t }: l "s
+TETULS	t e t }: l "s
+PPÄLS	p E l "s
+APPÄLS	a p E l "s
+REPPÄLS	r e p E l "s
+ETPPÄLS	e t p E l "s
+ÅLS	o: l "s
+RÅLS	r o: l "s
+SSÅLS	s O l "s
+AKAMS	a k A: m "s
+RAKAMS	r a k A: m "s
+TRAMS	t` A: m "s
+BBANS	b a n "s
+ABBANS	a b a n "s
+ERABBANS	e r a b a n "s
+TBBANS	t p a n "s
+AKCANS	a k a n "s
+RAKCANS	r a k a n "s
+TRANS	t` A: n "s
+GGYNS	g Y n "s
+TGGYNS	t k Y n "s
+LLÄNS	l E n "s
+ALLÄNS	a l E n "s
+TLLÄNS	t l E n "s
+TADLOS	t A: "d l U s
+RETADLOS	r e t A: "d l U s
+NELOS	n e l u: "s
+NOS	n o: "s
+STROS	s` t` O "s
+VOS	v o: "s
+AVOS	a v o: "s
+REVOS	r e v o: "s
+ARAPS	a r A: p "s
+NEKRAPS	n e k r a p "s
+LLEICEPS	l "E I s e p s
+TLLEICEPS	t l "E I s e p s
+LEPS	l e: p "s
+ALEPS	a l e: p "s
+EDALEPS	e d a l e: p "s
+RALEPS	r a l e: p "s
+TELEPS	t e l e: p "s
+GNARPS	N a r p "s
+GNIRPS	N I r p "s
+AGNIRPS	a N I r p "s
+REGNIRPS	r e N I r p "s
+KÅRPS	k o: r p "s
+EDNANNÄPS	e d n a n E p "s
+RÅPS	r o: p "s
+ARÅPS	a r o: p "s
+KCATS	k a t "s
+SRAKCATS	s` a k a t "s
+DATS	d A: t "s
+NEDATS	n e d A: t "s
+LATS	l A: t "s
+NATS	n A: t "s
+ANNATS	a n a t "s
+EDANNATS	e d a n a t "s
+RANNATS	r a n a t "s
+KRATS	k r a t "s
+AKRATS	a k r a t "s
+ERAKRATS	e r a k r a t "s
+ATRATS	a t` A: t "s
+NENOITATS	n e n u: "S a t s
+GETS	g e: t "s
+NETS	n e: t "s
+KCITS	k I t "s
+AKCITS	a k I t "s
+REKCITS	r e k I t "s
+GITS	g i: t "s
+LITS	l i: t "s
+LLITS	l I t "s
+ALLITS	a l I t "s
+ALÄJTS	a l E: "S
+DOTS	d u: t "s
+TLOTS	t l O t "s
+PPOTS	p O t "s
+APPOTS	a p O t "s
+RAPPOTS	r a p O t "s
+ROTS	r u: t "s
+AROTS	a r u: t "s
+TROTS	%t` u: t "s
+NEDNARTS	n e d n a r t "s
+XARTS	s k a r t "s
+TEERTS	t i: r t "s
+DIRTS	d i: r t "s
+RATNURTS	r a t n u0 r t "s
+DNUTS	d n u0 t "s
+NEKCYTS	n e k Y t "s
+RYTS	r y: t "s
+AKRYTS	a k r Y t "s
+ADÄTS	a d E: t "s
+LLÄTS	l E t "s
+ALLÄTS	a l E t "s
+EDLLÄTS	e d l E t "s
+ELLÄTS	e l E t "s
+RELLÄTS	r e l E t "s
+TELLÄTS	t e l E t "s
+REMMÄTS	r e m E t "s
+GNÄTS	N E t "s
+AGNÄTS	a N E t "s
+REGNÄTS	r e N E t "s
+ÅTS	o: t "s
+RÅTS	r o: t "s
+DÖTS	d 2: t "s
+RÖTS	r 2: t "s
+ERRÖTS	e r 9 t "s
+ATSRÖTS	a t` s` 9 t "s
+REGUS	r e g }: "s
+GAVS	g A: v "s
+RAVS	r A: v "s
+ARAVS	a r A: v "s
+EDARAVS	e d a r A: v "s
+RARAVS	r a r A: v "s
+TERAVS	t e r A: v "s
+TRAVS	t` a v "s
+ATRAVS	a t` a v "s
+NIVS	n i: v "s
+RÄVS	r E: v "s
+RÅVS	r o: v "s
+TRÅVS	t` o: v "s
+DNYS	d n Y "s
+SNYS	s n y: "s
+RALSSYS	r a l s Y "s
+METSYS	m e: t "s Y s
+TEMETSYS	t e m e: t "s Y s
+RETSYS	r e t s Y "s
+GÄS	j E "s
+AGÄS	a j E "s
+REGÄS	r e j E "s
+SGÄS	s j E "s
+REKÄS	r e k E: "s
+TEHREKÄS	t e: %h r e k E: "s
+TREKÄS	t` e k E: "s
+ARKÄS	a r k E: "s
+AJLÄS	a j l E "s
+REJLÄS	r e j l E "s
+PAKSLLÄS	p A: k %s l E "s
+GNÄS	N E "s
+NEGNÄS	n e N E "s
+TLIKSRÄS	t l I %s` E: "s
+TTÄS	t E "s
+ATTÄS	a t E "s
+RETTÄS	r e t E "s
+TETTÄS	t e t E "s
+ÅS	o: "s
+NADÅS	n a d o: "s
+ANADÅS	a n a d o: "s
+TNADÅS	t n a d o: "s
+RÄDÅS	r E: "d o: s
+GÅS	g o: "s
+EDLÅS	e d l O "s
+NÅS	n o: "s
+ANÅS	a n O "s
+TNÅS	t n O "s
+AKÖS	a k 2: "s
+REKÖS	r e k 2: "s
+ETKÖS	e t k 2: "s
+REDNÖS	r e d n 9 "s
+TÖS	t 2: "s
+SONTÖS	s u: %n t 2: "s
+T	e: "t
+AT	A: "t
+KCAT	k a "t
+AKCAT	a k a "t
+RAKCAT	r a k a "t
+GAT	g A: "t
+TEGAT	t e g A: "t
+TIGAT	t I g A: "t
+TEKAT	t e k A: "t
+LAT	l A: "t
+ALAT	a l A: "t
+EDALAT	e d a l A: "t
+RALAT	r a l A: "t
+SALAT	s a l A: "t
+TALAT	t a l A: "t
+RAKNAT	r a k N a "t
+EKNAT	e k N a "t
+NEKNAT	n e k N a "t
+EDAPPAT	e d a p a "t
+TAPPAT	t a p a "t
+RAT	r A: "t
+IXAT	I s k a "t
+ET	e: "t
+MAET	m i: "t
+NEKCET	n e k E "t
+DET	d E "t
+NOFELET	n o: "f e l e t
+NENOFELET	n e n o: "f e l e t
+ATSET	a t s E "t
+TXET	t s k E "t
+EHT	e: "t
+SAMOHT	s a m U "t
+DIT	d i: "t
+NEDIT	n e d i: "t
+ERAGIDIT	e r a g I d i: "t
+TGIDIT	t k I d i: "t
+NEGNINDIT	n e N I n d i: "t
+LLIT	l I "t
+AKABLLIT	a k A: "b l I t
+SKABLLIT	s k A: "b l I t
+ELLÄFLLIT	e l E %f l I "t
+RÖHLLIT	r 2: %h l I "t
+TGILKCÄRLLIT	t k I l k E %r l I "t
+SLLIT	s l I "t
+SNAMMASLLIT	s n a m a "s l I t
+DNÅTSLLIT	d n O t %s l I "t
+RAMMIT	r a m I "t
+EMMIT	e m I "t
+OIT	U i: "t
+TTIT	t I "t
+ATTIT	a t I "t
+EDATTIT	e d a t I "t
+RATTIT	r a t I "t
+AJT	a "s'
+JEJT	j E "s'
+NEJEJT	n e j E "s'
+REJEJT	r e j E "s'
+ANREJEJT	a n` e j E "s'
+ANEJT	a n e: "s'
+ANÄJT	a n E: "s'
+RANÄJT	r a n E: "s'
+TSNÄJT	t s n E "s'
+NETTELAOT	n e t E "l a u: t
+GOT	g u: "t
+GIKOT	g I k u: "t
+VLOT	v l O "t
+MOT	m o: "t
+YMMOT	Y m O "t
+YNOT	Y n o: "t
+NEPPOT	n e p O "t
+ERT	e: r "t
+EJDERT	e j d e: r "t
+GILVERT	g I l v e: r "t
+TGILVERT	t k I l v e: r "t
+ORT	u: r "t
+EDDORT	e d U r "t
+NEGILORT	n e g I l u: r "t
+RORT	r u: r "t
+STORT	s t O r "t
+KCYRT	k Y r "t
+DÄRT	d E: r "t
+AFFÄRT	a f E r "t
+EDAFFÄRT	e d a f E r "t
+SEDAFFÄRT	s e d a f E r "t
+RAFFÄRT	r a f E r "t
+SAFFÄRT	s a f E r "t
+TAFFÄRT	t a f E r "t
+TGIKÅRT	t k I k o: r "t
+TTÖRT	t 9 r "t
+FFUT	f u0 "t
+RUT	r }: "t
+NESUT	n e s }: "t
+SLATNESUT	s l A: %t n e s }: "t
+VT	e: %v e: "t
+AGNIVT	a N I v "t
+NEGNUVT	n e N u0 v "t
+ATTÄVT	a t E v "t
+ÅVT	o: v "t
+AKCYT	a k Y "t
+REKCYT	r e k Y "t
+SKCYT	s k Y "t
+ETKCYT	e t k Y "t
+NEGILDYT	n e g I l d y: "t
+PYT	p y: "t
+TSYT	t s Y "t
+ATSYT	a t s Y "t
+RRÄVYT	r E "v Y t
+REDNÄT	r e d n E "t
+KNÄT	k N E "t
+AKNÄT	a k N E "t
+REKNÄT	r e k N E "t
+TKNÄT	t k N E "t
+ETKNÄT	e t k N E "t
+TEGÅT	t e g o: "t
+SÅGMU	s o: %g m "u0
+NADNU	n a d n "u0
+REDNU	r e d n "u0
+RABREDNU	r A: %b r e d n "u0
+TRABREDNU	t` A: %b r e d n "u0
+EDARDNU	e d a r d n "u0
+RARDNU	r a r d n "u0
+AKIVDNU	a k i: %v d n "u0
+GNU	N "u0
+AGNU	a N "u0
+RAGNU	r a N "u0
+ANRAGNU	a n` a N "u0
+EGNU	e N "u0
+RÄFEGNU	r E: "f e j n u0
+PPU	p "u0
+GARDPPU	g A: r %d p "u0
+TEGARDPPU	t e g A: r %d p "u0
+EPPU	e p "u0
+TATTAFPPU	t a t a %f p "u0
+TEHMASKRÄMPPU	t e: %h m a s k r E m p "u0
+DRÖRPPU	d` 2: %r p "u0
+RATTAKSPPU	r a t a k %s p "u0
+NEGATPPU	n e g A: %t p "u0
+RU	r "}:
+TKÄSRU	t k E %s` "}:
+ATKÄSRU	a t k E %s` "}:
+TU	t "}:
+NATU	n a t "}:
+RÖFNATU	r 9 f n a t "}:
+ETU	e t "}:
+TKRÄMTU	t k r E %m t "}:
+MOTU	m O t "}:
+AV	a "v
+REKCAV	r e k a "v
+TREKCAV	t` e k a "v
+ARKCAV	a r k a "v
+DAV	d a "v
+ÅDAV	o: "d a v
+NEKAV	n e k A: "v
+ANKAV	a n k A: "v
+EDANKAV	e d a n k A: "v
+RANKAV	r a n k A: "v
+LAV	l A: "v
+EDLAV	e d l A: "v
+NAV	n A: "v
+GILNAV	g I l n A: "v
+AGILNAV	a g I l n A: "v
+TGILNAV	t k I l n A: "v
+NNAV	n a "v
+NEPAV	n e p A: "v
+NENPAV	n e n p A: "v
+TENPAV	t e n p A: "v
+RAV	r A: "v
+ARAV	a r A: "v
+ARDNARAV	a r d n a "r a v
+NNARAV	n a "r a v
+ERAV	e r A: "v
+ADNERAV	a d n E "r a v
+RÖFRAV	r 9 f r a "v
+TIRAV	t I r A: "v
+EJRAV	E "j r A: v
+NEKRAV	n e k r a "v
+MRAV	m r a "v
+TMRAV	t m r a "v
+DOGÅSRAV	d u: "g o: s` A: v
+TRAV	t` a "v
+NETTAV	n e t a "v
+TENTTAV	t e n t a "v
+AKCEV	a k E "v
+NAKCEV	n a k E "v
+ROKCEV	r U k E "v
+TALEV	t a l e: "v
+MEV	m E "v
+SMEV	s m E "v
+EDAKREV	e d a k r E "v
+RAKREV	r a k r E "v
+NEGILKREV	n e g I l k r E "v
+TEV	t e: "v
+ATEV	a t e: "v
+TATEV	t a t e: "v
+IV	i: "v
+AIV	a i: "v
+DIV	d i: "v
+ERADIV	e r a d i: "v
+GITKIV	g I t k I "v
+AGITKIV	a g I t k I "v
+ETSAGITKIV	e t s a g I t k I "v
+TGITKIV	t k I t k I "v
+ALIV	a l i: "v
+AJLIV	a j l I "v
+AKLIV	a k l I "v
+NEKLIV	n e k l I "v
+TEKLIV	t e k l I "v
+LLIV	l I "v
+ELLIV	e l I "v
+ESLIV	e s l I "v
+NIV	n i: "v
+NEDNIV	n e d n I "v
+ANNIV	a n I "v
+RENNIV	r e n I "v
+SIV	s i: "v
+ASIV	a s i: "v
+EDASIV	e d a s i: "v
+RASIV	r a s i: "v
+ASSIV	a s I "v
+TSSIV	t s I "v
+ETSSIV	e t s I "v
+TIV	t i: "v
+ATIV	a t i: "v
+EROV	e r u: "v
+GÄV	g E: "v
+NEGÄV	n e g E: "v
+NEGGÄV	n e g E "v
+RARGÄV	r a r g E: "v
+LÄV	l E: "v
+TGIDLÄV	t k I d l E "v
+AJLÄV	a j l E "v
+REJLÄV	r e j l E "v
+NEMMOKLÄV	n e m O %k l E: "v
+ANMOKLÄV	a n m O %k l E: "v
+NÄV	n E "v
+DNÄV	d n E "v
+ADNÄV	a d n E "v
+REDNÄV	r e d n E "v
+RENNÄV	r e n E "v
+RETSNÄV	r e t s n E "v
+ATNÄV	a t n E "v
+EDATNÄV	e d a t n E "v
+RATNÄV	r a t n E "v
+TATNÄV	t a t n E "v
+DRÄV	d` E: "v
+DLRÄV	d` E: "v
+NEDLRÄV	n e d` E: "v
+SNEDLRÄV	s n e d` E: "v
+ERRÄV	e r E "v
+ATSRÄV	a t` s` E "v
+TRÄV	t` E: "v
+AKSÄV	a k s E "v
+NAKSÄV	n a k s E "v
+REXÄV	r e s k E "v
+ETXÄV	e t s k E "v
+RAGÅV	r a g o: "v
+DLÅV	d l O "v
+RÅV	r o: "v
+ARÅV	a r o: "v
+NARÅV	n a r o: "v
+TRÅV	t` o: "v
+RETLAW	r e t l a "v
+NOTGNIHSAW	n O t N I s` O "v
+LLIW	l I "v
+KROY	k o: "j
+REGÄ	r e g "E:
+GGÄ	g "E
+ATKÄ	a t k "E
+PAKSNETKÄ	p A: k %s n e t k "E
+ERDLÄ	e r d l "E
+AKSLÄ	a k s l "E
+EDAKSLÄ	e d a k s l "E
+RAKSLÄ	r a k s l "E
+GNILKSLÄ	N I l k s l "E
+NÄ	n E
+ADNÄ	a d n "E
+ARDNÄ	a r d n "E
+RARDNÄ	r a r d n "E
+ÅDNÄ	o: "d n E
+UNNÄ	}: n "E
+NEGILTNÄ	n e g I l t n "E
+RÄ	r "E:
+ARÄ	a r "E:
+GILRÄ	g I l` "E:
+TGILRÄ	t k I l` "E:
+TÄ	t "E:
+ATÄ	a t "E:
+RETÄ	r e t "E:
+TITÄ	t I t "E:
+NEVÄ	n e v "E:
+Å	"o:
+HÅ	"o:
+KÅ	k "o:
+AKÅ	a k "o:
+REKÅ	r e k "o:
+TKÅ	t k "o:
+ETKÅ	e t k "o:
+REDLÅ	r e d l "O
+RÅ	r "o:
+NERÅ	n e r "o:
+TERÅ	t e r "o:
+SRÅ	s` "o:
+TÅ	t "o:
+ADNÄVRETÅ	a d n E %v r e t "o:
+REDNÄVRETÅ	r e d n E %v r e t "o:
+ENOTSNIMTÅ	e n O t s n I "m t o:
+ATTÅ	a t "O
+EDÖ	e d "2:
+AGÖ	a g "2:
+NOGÖ	n O g "2:
+KCILBNOGÖ	k I l %b n O g "2:
+NENOGÖ	n e n O g "2:
+LÖ	l "2:
+NÖ	n "2:
+RAKSNÖ	r a k s n "9
+NEPPÖ	n e p "9
+TEPPÖ	t e p "9
+ANPPÖ	a n p "9
+RANPPÖ	r a n p "9
+REVÖ	r e v "2:
+TLLAREVÖ	t l "a r e v 2:
+SNEREVÖ	s n E "r e v 2:
+AVELREVÖ	a v e: %l` e v "2:
+REVELREVÖ	r e v e: %l` e v "2:
+GNINKSARREVÖ	N I n k s a %r e v "2:
+TTASREVÖ	t a %s` e v "2:
+ETSREVÖ	e t` s` e v "2:
