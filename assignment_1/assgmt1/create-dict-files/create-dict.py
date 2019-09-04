@@ -2,7 +2,7 @@ import sys
 import os
 
 # take the input lex filename
-filename = sys.argv[1]
+filename = "../text-files/"+sys.argv[1]
 
 # the files which contain the info to build fst
 file_in  = "in.txt"
@@ -67,20 +67,20 @@ fst_out.append("0") # weight can be arbitrary
 
 # write values to all the files
 
-if "lex-files" not in os.listdir():
-	os.mkdir("lex-files")
+if "lex-files" not in os.listdir("../"):
+	os.mkdir("../lex-files")
 
 # input symbols file
-with open("lex-files/"+file_in, 'w+') as file:
+with open("../lex-files/"+file_in, 'w+') as file:
 	for line in tuple_in:
 		file.write(line[0] + " " + str(line[1])+"\n")
 
 # output symbols file
-with open("lex-files/"+file_out, 'w+') as file:
+with open("../lex-files/"+file_out, 'w+') as file:
 	for word in dict_out:
 		file.write("%s %d\n"%(word, dict_out[word]))
 
 # fst file
-with open("lex-files/"+file_fst, 'w+') as file:
+with open("../lex-files/"+file_fst, 'w+') as file:
 	for line in fst_out:
 		file.write(line+"\n")

@@ -33,6 +33,7 @@ fstarcsort --sort_type=ilabel $1 binary.fst
 fstcompose acceptor.fst binary.fst binary.fst
 fstdeterminize binary.fst binary.fst
 fstminimize binary.fst binary.fst
+# fstrmepsilon binary.fst binary.fst
 fstprint binary.fst fstfile.txt
 
 # call the python file to parse and print
