@@ -31,11 +31,11 @@
 6. ./fst-files/L.fst (Generated)
 
 #### Usage
-``
+````
     $ chmod 777 ./create-dict-files/create-dict.sh
     $ chmod 777 ./lookup-files/lookup-1.sh
     $ ./create-dict-files/create-dict.sh lex.txt > fst-files/L.fst
     $ ./lookup-files/lookup-1.sh L.fst in.txt ALICE
-``
+````
 
 ### Problem 3.2 : Letters instead of words
