@@ -2,7 +2,7 @@ import sys
 
 # PROBABLY NEEDS TO BE IMPROVED
 # BY IMPLEMENTING BFS
-# INSTEAD OF NORMAL TRAVERSAL
+# INSTEAD OF SIMPLE TRAVERSAL
 
 # get the filename to be parsed
 filename = sys.argv[1]
@@ -15,6 +15,7 @@ all_lines = open(filename, 'r').readlines()
 graph = {}
 final_state = []
 for line in all_lines:
+	# print(line.strip())
 	line_ = line.strip().split("\t")
 
 	# set final state
@@ -59,18 +60,27 @@ for word in input_words:
 		curr_state = graph[curr_state][word][0]
 
 # try to match with epsilon until reaching final_state
-while curr_state not in final_state:
+# while curr_state not in final_state:
 
-	if curr_state not in graph:
-		output_word = "<OOV>"
-		break	
+# 	if curr_state not in graph:
+# 		output_word = "<OOV>"
+# 		break	
 
-	if "<eps>" not in graph[curr_state]:
-		output_word = "<OOV>"
-		break
-	else:
-		if graph[curr_state]["<eps>"][1] != "<eps>":
-			output_word += graph[curr_state]["<eps>"][1] + " "
-		curr_state = graph[curr_state]["<eps>"][0]
+# 	if "<eps>" not in graph[curr_state]:
+# 		output_word = "<OOV>"
+# 		break
+# 	else:
+# 		if graph[curr_state]["<eps>"][1] != "<eps>":
+# 			output_word += graph[curr_state]["<eps>"][1] + " "
+# 		curr_state = graph[curr_state]["<eps>"][0]
 
+while curr_state in graph and "<eps>" in graph[curr_state]:
+
+	if graph[curr_state]["<eps>"][1] != "<eps>":
+		output_word += graph[curr_state]["<eps>"][1] + " "
+	curr_state = graph[curr_state]["<eps>"][0]
+
+if curr_state not in final_state:
+	output_word = "<OOV>"
+	
 print(output_word)

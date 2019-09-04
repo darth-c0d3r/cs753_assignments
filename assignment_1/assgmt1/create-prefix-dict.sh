@@ -8,10 +8,11 @@ python3 create-prefix-dict.py temp
 rm temp
 
 # get the input and output symbol files for Q
-# hardcoded for now
+in_table="$(fstinfo Q.fst | head -n 3 | tail -n 1 | rev | cut -d' ' -f1 | rev)"
+out_table="$(fstinfo Q.fst | head -n 4 | tail -n 1 | rev | cut -d' ' -f1 | rev)"
 
 # compile the required fst file
-fstcompile --isymbols="lex-files/let-out.txt" --osymbols="lex-files/out.txt" --keep_isymbols --keep_osymbols lex-files/prefix-fst.txt binary.fst
+fstcompile --isymbols="$in_table" --osymbols="$out_table" --keep_isymbols --keep_osymbols lex-files/prefix-fst.txt binary.fst
 
 # # determinize and minimize the obtained fst
 fstdeterminize binary.fst binary.fst
