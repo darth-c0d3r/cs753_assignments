@@ -5,7 +5,7 @@ import sys
 # Write back to file_out
 
 filename = sys.argv[1]
-file_out = "rev_"+filename
+file_out = "../text-files/"+sys.argv[2]
 
 with open(file_out, 'w+') as file:
 

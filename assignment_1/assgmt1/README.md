@@ -22,14 +22,6 @@
 
 ### Problem 3.1 : Dictionary FST, L
 
-#### Files Required
-1. ./create-dict-files/create-dict.sh (Coded)
-2. ./create-dict-files/create-dict.py (Coded)
-3. ./lookup-files/lookup-1.sh (Coded)
-4. ./lookup-files/printfst.py (Coded)
-5. ./text-files/lex.txt (Given)
-6. ./fst-files/L.fst (Generated)
-
 #### Usage
 ````
 $ chmod 777 ./create-dict-files/create-dict.sh
@@ -39,3 +31,32 @@ $ ./lookup-files/lookup-1.sh L.fst in.txt ALICE
 ````
 
 ### Problem 3.2 : Letters instead of words
+
+#### Usage
+
+````
+$ chmod 777 ./create-dict-files/create-let-dict.sh
+$ chmod 777 ./lookup-files/lookup-2.sh
+$ ./create-dict-files/create-let-dict.sh lex.txt L.fst > fst-files/Q.fst
+$ ./lookup-files/lookup-2.sh Q.fst let-out.txt "A L I C E"
+````
+
+### Problem 3.3 : Pronunciations for partial words
+
+#### Usage
+````
+$ chmod 777 ./create-dict-files/create-prefix-dict.sh
+$ chmod 777 ./lookup-files/lookup-3.sh
+$ ./create-dict-files/create-prefix-dict.sh Q.fst > fst-files/QPrefix.fst
+$ ./lookup-files/lookup-3.sh QPrefix.fst let-out.txt AL
+````
+
+### Problem 3.4 : Pronunciations for new words
+
+#### Usage
+````
+$ chmod 777 ./create-dict-files/setup-merge.sh
+$ chmod 777 ./lookup-files/lookup-4.sh
+$ ./create-dict-files/setup-merge.sh lex.txt 
+$ ./lookup-files/lookup-4.sh QPrefix.fst let-out.txt QSuffix.fst let-out_rev.txt ALIENT
+````

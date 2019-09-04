@@ -15,7 +15,7 @@ all_lines = open(filename, 'r').readlines()
 graph = {}
 final_state = []
 for line in all_lines:
-	print(line.strip())
+	# print(line.strip())
 	line_ = line.strip().split("\t")
 
 	# set final state

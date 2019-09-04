@@ -2,12 +2,12 @@ import sys
 from shutil import copyfile
 
 # get the fst specification filename
-filename = sys.argv[1]
-file_out = 'lex-files/prefix-fst.txt'
+filename = "../text-files/"+sys.argv[1]
+file_out = '../lex-files/prefix-fst.txt'
 
 # quick fix to make the code work for P3.4
-if len(sys.argv) > 2:
-	file_out = 'lex-files/prefix-fst_' + sys.argv[2] + '.txt'
+if sys.argv[2] == 'rev':
+	file_out = '../lex-files/prefix-fst_' + sys.argv[2] + '.txt'
 
 all_lines = open(filename, 'r').readlines()
 
