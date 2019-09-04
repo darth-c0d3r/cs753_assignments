@@ -1,8 +1,8 @@
 #! /bin/bash
 
-# $1 : fst file
-# $2 : input symbol table
-# $3 : the word
+# $1 : fst file [L.fst]
+# $2 : input symbol table [lex-files/in.txt]
+# $3 : the word [ALICE]
 
 # first we should check if word exists in input symbol table
 # if it doesn't exist, just output the special symbol <OOV>

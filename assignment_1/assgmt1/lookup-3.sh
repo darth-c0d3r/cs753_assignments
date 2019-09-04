@@ -1,15 +1,18 @@
 #! /bin/bash
 
-# Not required for submission. Just to test part 2.
+# Can be used for testing part 2 as well
 
-# $1 : fst file [Q.fst]
+# $1 : fst file [QPrefix.fst]
 # $2 : input symbol table [lex-files/let-out.txt]
-# $3 : the spellings (in quotes) ["A L I C E"]
+# $3 : the required word [ALICE]
 
 # create the fst file for the spellings acceptor A
 NUM=0
-for W in $3
-do
+WORD=$3
+ARRAY=()
+for (( i=0; i<${#WORD}; i++ )); do
+	W="${WORD:$i:1}"
+	ARRAY+=("$W")
 	echo "$NUM" $(($NUM+1)) "$W" "$W" >> temp_fst.txt
 	NUM=$(($NUM+1))
 done
@@ -33,7 +36,8 @@ fstminimize binary.fst binary.fst
 fstprint binary.fst fstfile.txt
 
 # call the python file to parse and print
-python3 printfst.py fstfile.txt $3
+# CONVERT $3 TO AN ARRAY AND FORWARD // sad fix
+python3 printfst.py fstfile.txt "${ARRAY[@]}"
 
 # remove all the extra files
 rm fstfile.txt

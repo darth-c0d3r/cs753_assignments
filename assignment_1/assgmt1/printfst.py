@@ -1,7 +1,8 @@
 import sys
 
-# PROBABLY NEED TO IMPROVE
+# PROBABLY NEEDS TO BE IMPROVED
 # BY IMPLEMENTING BFS
+# INSTEAD OF NORMAL TRAVERSAL
 
 # get the filename to be parsed
 filename = sys.argv[1]
@@ -12,13 +13,13 @@ all_lines = open(filename, 'r').readlines()
 
 # make a dictionary for the WFST
 graph = {}
-final_state = 0
+final_state = []
 for line in all_lines:
 	line_ = line.strip().split("\t")
 
 	# set final state
 	if len(line_) == 1:
-		final_state = int(line_[0])
+		final_state.append(int(line_[0]))
 		continue
 
 	# add the arc
@@ -58,7 +59,12 @@ for word in input_words:
 		curr_state = graph[curr_state][word][0]
 
 # try to match with epsilon until reaching final_state
-while curr_state != final_state:
+while curr_state not in final_state:
+
+	if curr_state not in graph:
+		output_word = "<OOV>"
+		break	
+
 	if "<eps>" not in graph[curr_state]:
 		output_word = "<OOV>"
 		break
