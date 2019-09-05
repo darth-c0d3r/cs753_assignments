@@ -1,12 +1,8 @@
 import sys
-
-# PROBABLY NEEDS TO BE IMPROVED
-# BY IMPLEMENTING BFS
-# INSTEAD OF SIMPLE TRAVERSAL
+import queue
 
 # get the filename to be parsed
 filename = sys.argv[1]
-input_words = sys.argv[2:]
 
 # read all the lines
 all_lines = open(filename, 'r').readlines()
@@ -15,12 +11,14 @@ all_lines = open(filename, 'r').readlines()
 graph = {}
 final_state = []
 for line in all_lines:
-	print(line.strip())
+	# print(line.strip())
 	line_ = line.strip().split("\t")
 
 	# set final state
 	if len(line_) == 1:
 		final_state.append(int(line_[0]))
+		if int(line_[0]) not in graph:
+			graph[int(line_[0])] = {}
 		continue
 
 	# add the arc
@@ -29,58 +27,38 @@ for line in all_lines:
 	graph[int(line_[0])][line_[2]] = (int(line_[1]), line_[3])
 
 # now traverse the graph using the dict
+all_answers = []
+q = queue.Queue()
+q.put((0, ""))
 
-# current state for traversal
-curr_state = 0
-output_word = ""
-
-# traverse over all input words
-for word in input_words:
+# repeat till the queue is empty
+while not q.empty():
+	
+	curr_state, curr_word = q.get()
+	# print(curr_state, curr_word)
 
 	if curr_state not in graph:
-		output_word = "<OOV>"
+		all_answers.append("<OOV>")
 		break
 
-	# if the word is not on any arc
-	# look to match epsilon
-	if word not in graph[curr_state]:
+	transition = False
+	for action in graph[curr_state]:
+		next_state = graph[curr_state][action][0]
+		transition = True
+		next_word = curr_word
+		if graph[curr_state][action][1] != "<eps>":
+			next_word += graph[curr_state][action][1] + " "
+		q.put((next_state,next_word))
 
-		# if epsilon is also not on any arc
-		# the traversal has failed
-		if "<eps>" not in graph[curr_state]:
-			output_word = "<OOV>"
-			break
-		else:
-			if graph[curr_state]["<eps>"][1] != "<eps>":
-				output_word += graph[curr_state]["<eps>"][1] + " "
-			curr_state = graph[curr_state]["<eps>"][0]
-	else:
-		if graph[curr_state][word][1] != "<eps>":
-			output_word += graph[curr_state][word][1] + " "
-		curr_state = graph[curr_state][word][0]
+	if transition is False:
+		all_answers.append(curr_word)
 
-# try to match with epsilon until reaching final_state
-# while curr_state not in final_state:
-
-# 	if curr_state not in graph:
-# 		output_word = "<OOV>"
-# 		break	
-
-# 	if "<eps>" not in graph[curr_state]:
-# 		output_word = "<OOV>"
-# 		break
-# 	else:
-# 		if graph[curr_state]["<eps>"][1] != "<eps>":
-# 			output_word += graph[curr_state]["<eps>"][1] + " "
-# 		curr_state = graph[curr_state]["<eps>"][0]
-
-while curr_state in graph and "<eps>" in graph[curr_state]:
-
-	if graph[curr_state]["<eps>"][1] != "<eps>":
-		output_word += graph[curr_state]["<eps>"][1] + " "
-	curr_state = graph[curr_state]["<eps>"][0]
-
-if curr_state not in final_state:
-	output_word = "<OOV>"
-	
-print(output_word)
+# choose the maximal answer
+best_len = 0
+best_word = ""
+for ans in all_answers:
+	ans_ = ans.strip().split(" ")
+	if len(ans_) > best_len:
+		best_len = len(ans_)
+		best_word = ans
+print(best_word)

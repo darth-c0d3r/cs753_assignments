@@ -22,32 +22,41 @@ SYMS="../lex-files/${4}"
 cd ..
 PRONUN=$(./lookup-files/lookup-3.sh $LSTP $SYMP $5)
 
-# if it exists, no need to break
-if [ "$PRONUN" = "<OOV>" ]; then
+WORD=$5
+LEN=${#WORD}
 
-	WORD=$5
-	LEN=${#WORD}
+# Initialize Max Length and Optimal words
+MAX_LEN=0
+MAX_PRE=""
+MAX_SUF=""
 
-	# iterate for getting all partitions
-	for ((i=1; i<LEN; i++))
-	do
-		# extract prefix and suffix
-		PREFIX=${WORD:0:i}
-		SUFFIX=$(echo ${WORD:i:LEN} | rev)
+# iterate for getting all partitions
+for ((i=0; i<=LEN; i++))
+do
+	# extract prefix and suffix
+	PREFIX=${WORD:0:i}
+	SUFFIX=$(echo ${WORD:i:LEN} | rev)
 
-		# get output for prefix
-		PRE_PRONUN=$(./lookup-files/lookup-3.sh $LSTP $SYMP $PREFIX)
-		SUF_PRONUN=$(./lookup-files/lookup-3.sh $LSTS $SYMS $SUFFIX | rev)
+	# get output for prefix
+	PRE_PRONUN=$(./lookup-files/lookup-3.sh $LSTP $SYMP $PREFIX)
+	SUF_PRONUN=$(./lookup-files/lookup-3.sh $LSTS $SYMS $SUFFIX | rev)
 
-		if [ "$PRE_PRONUN" = "<OOV>" ] || [ "$SUF_PRONUN" = ">VOO<" ]; then
-			continue
-		else
-			# print the complete pronunciation
-			echo $PRE_PRONUN $SUF_PRONUN
-			break 
+	if [ "$PRE_PRONUN" = "<OOV>" ] || [ "$SUF_PRONUN" = ">VOO<" ]; then
+		continue
+	else
+		
+		NUM_PRE=$(($(echo "$PRE_PRONUN" | tr -cd ' ' | wc -c)+1))
+		NUM_SUF=$(($(echo "$SUF_PRONUN" | tr -cd ' ' | wc -c)+1))
+
+		# compare with current best
+		if (( NUM_PRE + NUM_SUF >= MAX_LEN )); then
+			#statements
+			MAX_LEN=$((NUM_PRE+NUM_SUF))
+			MAX_PRE=$PRE_PRONUN
+			MAX_SUF=$SUF_PRONUN
 		fi
-	done
 
-else
-	echo $PRONUN
-fi
+	fi
+done
+
+echo $MAX_PRE $MAX_SUF
