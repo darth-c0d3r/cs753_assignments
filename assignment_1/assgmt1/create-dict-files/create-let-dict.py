@@ -60,10 +60,13 @@ for word in all_words:
 		curr_word = "<eps>"
 
 	# handle the case for kleene-closure
-	fst_out.append("%d %d %s %s"%(curr_state-1, 0, "<eps>", "<eps>"))
+	# fst_out.append("%d %d %s %s"%(curr_state-1, 0, "<eps>", "<eps>"))
+
+	# make last state as final state
+	fst_out.append("%d"%(curr_state-1))
 
 # add the final state to the fst file
-fst_out.append("0") # weight can be arbitrary
+# fst_out.append("0") # weight can be arbitrary
 
 # write values to all the files
 

@@ -5,15 +5,15 @@ import os
 filename = "../text-files/"+sys.argv[1]
 
 # the files which contain the info to build fst
-file_in  = "in.txt"
-file_out = "out.txt"
-file_fst = "fst.txt"
+file_in  = "let-in.txt"
+file_out = "let-out.txt"
+file_fst = "let-fst.txt"
 
 # a quick fix to reuse the same code for part 3
 if len(sys.argv) > 2:
-	file_in  = "in_"+sys.argv[2]+".txt"
-	file_out = "out_"+sys.argv[2]+".txt"
-	file_fst = "fst_"+sys.argv[2]+".txt"	
+	file_in  = "let-in_"+sys.argv[2]+".txt"
+	file_out = "let-out_"+sys.argv[2]+".txt"
+	file_fst = "let-fst_"+sys.argv[2]+".txt"	
 
 # read all the words
 all_words = open(filename, 'r').readlines()
@@ -36,7 +36,7 @@ tuple_in.append(("<eps>", 0))
 for word in all_words:
 
 	# split the input line
-	word_, lexemes = word.strip().split("\t")
+	word_ = word.strip().split("\t")[0]
 
 	# append word to input tuple
 	tuple_in.append((word_, curr_in))
@@ -46,7 +46,7 @@ for word in all_words:
 	curr_word = word_
 
 	# iterate over all lexemes
-	for lex in lexemes.split(" "):
+	for lex in word_:
 
 		# add to output dict if not already done
 		if lex not in dict_out:
@@ -60,13 +60,10 @@ for word in all_words:
 		curr_word = "<eps>"
 
 	# handle the case for kleene-closure
-	# fst_out.append("%d %d %s %s"%(curr_state-1, 0, "<eps>", "<eps>"))
-
-	# make the last state as a final state
-	fst_out.append("%d"%(curr_state-1))
+	fst_out.append("%d %d %s %s"%(curr_state-1, 0, "<eps>", "<eps>"))
 
 # add the final state to the fst file
-# fst_out.append("0") # weight can be arbitrary
+fst_out.append("0") # weight can be arbitrary
 
 # write values to all the files
 

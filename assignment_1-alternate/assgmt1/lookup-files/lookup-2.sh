@@ -1,22 +1,19 @@
 #! /bin/bash
 
-# Can be used for testing part 2 as well
+# Not required for submission. Just to test part 2.
 
-# $1 : fst file [QPrefix.fst] [QSuffix.fst]
-# $2 : input symbol table [let-out.txt] [let-out_rev.txt]
-# $3 : the required word [ALICE] [ECILA]
+# $1 : fst file [Q.fst]
+# $2 : input symbol table [let-out.txt]
+# $3 : the spellings (in quotes) ["A L I C E"]
 
-cd ./lookup-files
+cd ./lookup-files/
 FST="../fst-files/${1}"
 SYM="../lex-files/${2}"
 
 # create the fst file for the spellings acceptor A
 NUM=0
-WORD=$3
-ARRAY=()
-for (( i=0; i<${#WORD}; i++ )); do
-	W="${WORD:$i:1}"
-	ARRAY+=("$W")
+for W in $3
+do
 	echo "$NUM" $(($NUM+1)) "$W" "$W" >> temp_fst.txt
 	NUM=$(($NUM+1))
 done
@@ -37,13 +34,10 @@ fstarcsort --sort_type=ilabel $FST binary.fst
 fstcompose acceptor.fst binary.fst binary.fst
 fstdeterminize binary.fst binary.fst
 fstminimize binary.fst binary.fst
-fstrmepsilon binary.fst binary.fst
-# fstpush --push_labels binary.fst binary.fst
 fstprint binary.fst fstfile.txt
 
 # call the python file to parse and print
-# CONVERT $3 TO AN ARRAY AND FORWARD // sad fix
-python3 printfst.py fstfile.txt "${ARRAY[@]}"
+python3 printfst.py fstfile.txt $3
 
 # remove all the extra files
 rm fstfile.txt

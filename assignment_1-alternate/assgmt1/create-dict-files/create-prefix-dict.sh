@@ -17,12 +17,10 @@ out_table="$(fstinfo ../fst-files/Q.fst | head -n 4 | tail -n 1 | rev | cut -d' 
 
 # compile the required fst file
 fstcompile --isymbols="$in_table" --osymbols="$out_table" --keep_isymbols --keep_osymbols ../lex-files/prefix-fst.txt binary.fst
-fstpush --push_labels binary.fst binary.fst
 
 # determinize and minimize the obtained fst
 fstdeterminize binary.fst binary.fst
 fstminimize binary.fst binary.fst
-fstpush --push_labels binary.fst binary.fst
 
 # cat the created binary so that it can be piped to reqd file and remove the redundant file
 cat binary.fst

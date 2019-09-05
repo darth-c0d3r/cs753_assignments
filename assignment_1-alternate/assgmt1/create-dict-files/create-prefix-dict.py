@@ -19,4 +19,4 @@ with open(file_out, 'w+') as file:
 		file.write(" ".join(line_)+"\n")
 
 		if len(line_) != 1 and int(line_[1]) != 0:
-			file.write(" ".join([line_[1]])+"\n")
+			file.write(" ".join([line_[1], "0", "<eps>", "<eps>"])+"\n")

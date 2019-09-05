@@ -37,7 +37,7 @@ fstarcsort --sort_type=ilabel $FST binary.fst
 fstcompose acceptor.fst binary.fst binary.fst
 fstdeterminize binary.fst binary.fst
 fstminimize binary.fst binary.fst
-fstrmepsilon binary.fst binary.fst
+# fstrmepsilon binary.fst binary.fst
 # fstpush --push_labels binary.fst binary.fst
 fstprint binary.fst fstfile.txt
 
